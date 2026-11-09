@@ -1,0 +1,450 @@
+{
+  "cases": 27,
+  "engines": [
+    "chromium",
+    "webkit"
+  ],
+  "scenarios": 54,
+  "passed": 54,
+  "checks": 4806,
+  "failed": [],
+  "results": [
+    {
+      "id": "doc-2",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://equazioni-biquadratiche.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-3",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://lingue-facili.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-4",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://math-input-panel.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-5",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://mappa-3passi-preview.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-6",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://shakespeare-quiz.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-7",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://shakespeare-quiz-2.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-8",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://laboratorio-visivo-2.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-9",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://becquer-quiz.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-10",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://becquer-schema-interattivo.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-11",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://romanticismo-interattivo.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-12",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://romanticismo-mappa-concettuale.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-13",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://espana-xix-match.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-14",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://espressioni-monomi-polinomi.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-15",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://mappe-matematica-fisica.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-679576033890164509-1",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://espressioni-monomi-polinomi.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-1922418405459565194-1",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://lingue-facili.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-6399175649064646853-1",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://mappe-matematica-fisica.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-2066753291669308721-1",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://mappa-3passi-preview.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-8441799158364970443-1",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://shakespeare-quiz.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-4249744076071402431-1",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://shakespeare-quiz-2.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-4249744076071402431-2",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://laboratorio-visivo-2.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-7323079439067659778-1",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://becquer-quiz.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-7323079439067659778-2",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://becquer-schema-interattivo.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-7323079439067659778-3",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://laboratorio-visivo-2.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-4691181389365276674-1",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://romanticismo-interattivo.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-4691181389365276674-2",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://romanticismo-mappa-concettuale.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-9124895531424382719-1",
+      "engine": "chromium",
+      "ok": true,
+      "checks": 89,
+      "app": "https://espana-xix-match.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-2",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://equazioni-biquadratiche.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-3",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://lingue-facili.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-4",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://math-input-panel.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-5",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://mappa-3passi-preview.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-6",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://shakespeare-quiz.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-7",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://shakespeare-quiz-2.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-8",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://laboratorio-visivo-2.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-9",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://becquer-quiz.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-10",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://becquer-schema-interattivo.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-11",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://romanticismo-interattivo.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-12",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://romanticismo-mappa-concettuale.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-13",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://espana-xix-match.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-14",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://espressioni-monomi-polinomi.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "doc-15",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://mappe-matematica-fisica.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-679576033890164509-1",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://espressioni-monomi-polinomi.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-1922418405459565194-1",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://lingue-facili.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-6399175649064646853-1",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://mappe-matematica-fisica.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-2066753291669308721-1",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://mappa-3passi-preview.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-8441799158364970443-1",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://shakespeare-quiz.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-4249744076071402431-1",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://shakespeare-quiz-2.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-4249744076071402431-2",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://laboratorio-visivo-2.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-7323079439067659778-1",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://becquer-quiz.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-7323079439067659778-2",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://becquer-schema-interattivo.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-7323079439067659778-3",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://laboratorio-visivo-2.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-4691181389365276674-1",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://romanticismo-interattivo.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-4691181389365276674-2",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://romanticismo-mappa-concettuale.easy-peasy.site/",
+      "errors": []
+    },
+    {
+      "id": "blog-9124895531424382719-1",
+      "engine": "webkit",
+      "ok": true,
+      "checks": 89,
+      "app": "https://espana-xix-match.easy-peasy.site/",
+      "errors": []
+    }
+  ],
+  "limitations": [
+    "App iframe simulate, non dati o interazioni reali;",
+    "Schermo intero simulato per verificare layout e click;",
+    "Lo zoom è emulato mediante CSS, non telefoni fisici."
+  ]
+}

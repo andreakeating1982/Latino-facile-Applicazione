@@ -1,0 +1,732 @@
+{
+  "feed": {
+    "status": "done",
+    "at": "2026-11-07T12:37:18.606Z",
+    "results": [
+      {
+        "id": "679576033890164509",
+        "expected": 1,
+        "count": {
+          "styles": 1,
+          "scripts": 1,
+          "roots": 1
+        },
+        "frames": [
+          {
+            "n": 1,
+            "style": true,
+            "script": true,
+            "html": true
+          }
+        ]
+      },
+      {
+        "id": "1922418405459565194",
+        "expected": 1,
+        "count": {
+          "styles": 1,
+          "scripts": 1,
+          "roots": 1
+        },
+        "frames": [
+          {
+            "n": 1,
+            "style": true,
+            "script": true,
+            "html": true
+          }
+        ]
+      },
+      {
+        "id": "6399175649064646853",
+        "expected": 1,
+        "count": {
+          "styles": 1,
+          "scripts": 1,
+          "roots": 1
+        },
+        "frames": [
+          {
+            "n": 1,
+            "style": true,
+            "script": true,
+            "html": true
+          }
+        ]
+      },
+      {
+        "id": "2066753291669308721",
+        "expected": 1,
+        "count": {
+          "styles": 1,
+          "scripts": 1,
+          "roots": 1
+        },
+        "frames": [
+          {
+            "n": 1,
+            "style": true,
+            "script": true,
+            "html": true
+          }
+        ]
+      },
+      {
+        "id": "8441799158364970443",
+        "expected": 1,
+        "count": {
+          "styles": 1,
+          "scripts": 1,
+          "roots": 1
+        },
+        "frames": [
+          {
+            "n": 1,
+            "style": true,
+            "script": true,
+            "html": true
+          }
+        ]
+      },
+      {
+        "id": "4249744076071402431",
+        "expected": 2,
+        "count": {
+          "styles": 2,
+          "scripts": 2,
+          "roots": 2
+        },
+        "frames": [
+          {
+            "n": 1,
+            "style": true,
+            "script": true,
+            "html": true
+          },
+          {
+            "n": 2,
+            "style": true,
+            "script": true,
+            "html": true
+          }
+        ]
+      },
+      {
+        "id": "7323079439067659778",
+        "expected": 3,
+        "count": {
+          "styles": 3,
+          "scripts": 3,
+          "roots": 3
+        },
+        "frames": [
+          {
+            "n": 1,
+            "style": true,
+            "script": true,
+            "html": true
+          },
+          {
+            "n": 2,
+            "style": true,
+            "script": true,
+            "html": true
+          },
+          {
+            "n": 3,
+            "style": true,
+            "script": true,
+            "html": true
+          }
+        ]
+      },
+      {
+        "id": "4691181389365276674",
+        "expected": 2,
+        "count": {
+          "styles": 2,
+          "scripts": 2,
+          "roots": 2
+        },
+        "frames": [
+          {
+            "n": 1,
+            "style": true,
+            "script": true,
+            "html": true
+          },
+          {
+            "n": 2,
+            "style": true,
+            "script": true,
+            "html": true
+          }
+        ]
+      },
+      {
+        "id": "9124895531424382719",
+        "expected": 1,
+        "count": {
+          "styles": 1,
+          "scripts": 1,
+          "roots": 1
+        },
+        "frames": [
+          {
+            "n": 1,
+            "style": true,
+            "script": true,
+            "html": true
+          }
+        ]
+      }
+    ]
+  },
+  "mobile": {
+    "status": "done",
+    "started": "2026-11-07T12:35:56.143Z",
+    "results": [
+      {
+        "id": "679576033890164509",
+        "title": "MATEMATICA",
+        "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/09/matematica_01504356514.html",
+        "width": 320,
+        "pageOverflow": 0,
+        "expected": 1,
+        "ok": true,
+        "elapsed_s": 7,
+        "frames": [
+          {
+            "app": "https://espressioni-monomi-polinomi.easy-peasy.site",
+            "expected": "https://espressioni-monomi-polinomi.easy-peasy.site",
+            "height": 648,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 3,
+            "lastHeight": 648,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1922418405459565194",
+        "title": "LINGUE STRANIERE",
+        "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/09/lingue-straniere.html",
+        "width": 320,
+        "pageOverflow": 0,
+        "expected": 1,
+        "ok": true,
+        "elapsed_s": 6,
+        "frames": [
+          {
+            "app": "https://lingue-facili.easy-peasy.site",
+            "expected": "https://lingue-facili.easy-peasy.site",
+            "height": 774,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 22,
+            "lastHeight": 774,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6399175649064646853",
+        "title": "MATEMATICA E FISICA",
+        "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/09/matematica-e-fisica.html",
+        "width": 320,
+        "pageOverflow": 0,
+        "expected": 1,
+        "ok": true,
+        "elapsed_s": 11,
+        "frames": [
+          {
+            "app": "https://mappe-matematica-fisica.easy-peasy.site",
+            "expected": "https://mappe-matematica-fisica.easy-peasy.site",
+            "height": 678,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 3,
+            "lastHeight": 678,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2066753291669308721",
+        "title": "STRATEGIE DI STUDIO",
+        "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/07/strategie-di-studio.html",
+        "width": 320,
+        "pageOverflow": 0,
+        "expected": 1,
+        "ok": true,
+        "elapsed_s": 9,
+        "frames": [
+          {
+            "app": "https://mappa-3passi-preview.easy-peasy.site",
+            "expected": "https://mappa-3passi-preview.easy-peasy.site",
+            "height": 804,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 2,
+            "lastHeight": 804,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8441799158364970443",
+        "title": "LETTERATURA INGLESE",
+        "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/05/letteratura-inglese.html",
+        "width": 320,
+        "pageOverflow": 0,
+        "expected": 1,
+        "ok": true,
+        "elapsed_s": 6,
+        "frames": [
+          {
+            "app": "https://shakespeare-quiz.easy-peasy.site",
+            "expected": "https://shakespeare-quiz.easy-peasy.site",
+            "height": 1029,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 6,
+            "lastHeight": 1029,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4249744076071402431",
+        "title": "LETTERATURA SPAGNOLA",
+        "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/05/letteratura-spagnola_0257251835.html",
+        "width": 320,
+        "pageOverflow": 0,
+        "expected": 2,
+        "ok": true,
+        "elapsed_s": 9,
+        "frames": [
+          {
+            "app": "https://shakespeare-quiz-2.easy-peasy.site",
+            "expected": "https://shakespeare-quiz-2.easy-peasy.site",
+            "height": 848,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 8,
+            "lastHeight": 848,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          },
+          {
+            "app": "https://laboratorio-visivo-2.easy-peasy.site",
+            "expected": "https://laboratorio-visivo-2.easy-peasy.site",
+            "height": 842,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 1,
+            "lastHeight": 842,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7323079439067659778",
+        "title": "LETTERATURA SPAGNOLA",
+        "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/05/letteratura-spagnola.html",
+        "width": 320,
+        "pageOverflow": 0,
+        "expected": 3,
+        "ok": true,
+        "elapsed_s": 16,
+        "frames": [
+          {
+            "app": "https://becquer-quiz.easy-peasy.site",
+            "expected": "https://becquer-quiz.easy-peasy.site",
+            "height": 878,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 15,
+            "lastHeight": 878,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          },
+          {
+            "app": "https://becquer-schema-interattivo.easy-peasy.site",
+            "expected": "https://becquer-schema-interattivo.easy-peasy.site",
+            "height": 883,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 8,
+            "lastHeight": 860,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          },
+          {
+            "app": "https://laboratorio-visivo-2.easy-peasy.site",
+            "expected": "https://laboratorio-visivo-2.easy-peasy.site",
+            "height": 842,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 2,
+            "lastHeight": 842,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4691181389365276674",
+        "title": "LETTERATURA SPAGNOLA",
+        "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/04/letteratura-spagnola_6.html",
+        "width": 320,
+        "pageOverflow": 0,
+        "expected": 2,
+        "ok": true,
+        "elapsed_s": 12,
+        "frames": [
+          {
+            "app": "https://romanticismo-interattivo.easy-peasy.site",
+            "expected": "https://romanticismo-interattivo.easy-peasy.site",
+            "height": 835,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 1,
+            "lastHeight": 835,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          },
+          {
+            "app": "https://romanticismo-mappa-concettuale.easy-peasy.site",
+            "expected": "https://romanticismo-mappa-concettuale.easy-peasy.site",
+            "height": 890,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 2,
+            "lastHeight": 890,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9124895531424382719",
+        "title": "LETTERATURA SPAGNOLA",
+        "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/08/letteratura-spagnola.html",
+        "width": 320,
+        "pageOverflow": 0,
+        "expected": 1,
+        "ok": true,
+        "elapsed_s": 8,
+        "frames": [
+          {
+            "app": "https://espana-xix-match.easy-peasy.site",
+            "expected": "https://espana-xix-match.easy-peasy.site",
+            "height": 413,
+            "overflow": 0,
+            "online": true,
+            "error": false,
+            "messages": 1,
+            "lastHeight": 413,
+            "buttons": [
+              {
+                "text": "Schermo intero",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              },
+              {
+                "text": "Ricarica",
+                "visible": true,
+                "paths": 1,
+                "inside": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "finished": "2026-11-07T12:36:48.174Z"
+  },
+  "becquer_monitor": {
+    "status": "done",
+    "samples": [
+      {
+        "t": 5,
+        "height": 860,
+        "last": 860,
+        "online": true,
+        "error": false
+      },
+      {
+        "t": 7,
+        "height": 860,
+        "last": 860,
+        "online": true,
+        "error": false
+      },
+      {
+        "t": 9,
+        "height": 860,
+        "last": 860,
+        "online": true,
+        "error": false
+      },
+      {
+        "t": 11,
+        "height": 860,
+        "last": 860,
+        "online": true,
+        "error": false
+      },
+      {
+        "t": 13,
+        "height": 860,
+        "last": 860,
+        "online": true,
+        "error": false
+      },
+      {
+        "t": 15,
+        "height": 860,
+        "last": 860,
+        "online": true,
+        "error": false
+      },
+      {
+        "t": 17,
+        "height": 860,
+        "last": 860,
+        "online": true,
+        "error": false
+      }
+    ],
+    "messages": [
+      {
+        "at": 1794055139877,
+        "height": 999
+      },
+      {
+        "at": 1794055140009,
+        "height": 954
+      },
+      {
+        "at": 1794055140032,
+        "height": 954
+      },
+      {
+        "at": 1794055140033,
+        "height": 954
+      },
+      {
+        "at": 1794055140109,
+        "height": 954
+      },
+      {
+        "at": 1794055140118,
+        "height": 954
+      },
+      {
+        "at": 1794055140283,
+        "height": 954
+      },
+      {
+        "at": 1794055140701,
+        "height": 860
+      },
+      {
+        "at": 1794055140702,
+        "height": 860
+      },
+      {
+        "at": 1794055141686,
+        "height": 860
+      },
+      {
+        "at": 1794055141773,
+        "height": 860
+      },
+      {
+        "at": 1794055142160,
+        "height": 860
+      },
+      {
+        "at": 1794055145173,
+        "height": 860
+      },
+      {
+        "at": 1794055148173,
+        "height": 860
+      },
+      {
+        "at": 1794055151167,
+        "height": 860
+      },
+      {
+        "at": 1794055154169,
+        "height": 860
+      }
+    ]
+  }
+}

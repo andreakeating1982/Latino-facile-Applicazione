@@ -1,0 +1,24 @@
+{
+  "verified_at_utc": "2026-11-07T12:54:31+00:00",
+  "method": "GET del feed Blogger pubblico e confronto esatto del blocco HTML, senza azioni sull’editor",
+  "blog_home": "https://blogdelprofessoreandreacentinaro.blogspot.com/",
+  "public_post": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/08/latino.html",
+  "post_id": "4191565949420778225",
+  "feed_last_updated": "2026-11-07T09:11:24.998+00:00",
+  "frame_bytes": 18731,
+  "frame_sha256": "0b3e5bf335092e16f603531a3432897a5c038f1f0783a3819a21a1ad3d4c3a28",
+  "frame_occurrences_in_public_feed": 1,
+  "reference_repo_same_except_final_newline": true,
+  "word_sha256": "5643a49d40827b5ceff0aaf94713f0f88c22b875afdb51cd8095eac7b59e7bf1",
+  "all_15_html_codes_match_word_exactly": true,
+  "app_url": "https://latino-facile-app-2.easy-peasy.site/",
+  "microphone_permission": true,
+  "buttons": [
+    "Schermo intero",
+    "Ricarica"
+  ],
+  "one_svg_path_per_button": true,
+  "ping_height_source_filter_anti_loop_present": true,
+  "actions_on_blog": false,
+  "limits": "Confronto del feed e del blocco, non nuova verifica di un dispositivo fisico né di ogni funzione interna."
+}

@@ -1,0 +1,96 @@
+[
+  {
+    "engine": "chromium",
+    "group": [
+      7,
+      8
+    ],
+    "ok": true,
+    "tokensUnique": true,
+    "heights": [
+      1030,
+      1220
+    ],
+    "independentReload": true,
+    "postUnaffected": true
+  },
+  {
+    "engine": "chromium",
+    "group": [
+      9,
+      10,
+      8
+    ],
+    "ok": true,
+    "tokensUnique": true,
+    "heights": [
+      1030,
+      1220,
+      640
+    ],
+    "independentReload": true,
+    "postUnaffected": true
+  },
+  {
+    "engine": "chromium",
+    "group": [
+      11,
+      12
+    ],
+    "ok": true,
+    "tokensUnique": true,
+    "heights": [
+      1030,
+      1220
+    ],
+    "independentReload": true,
+    "postUnaffected": true
+  },
+  {
+    "engine": "webkit",
+    "group": [
+      7,
+      8
+    ],
+    "ok": true,
+    "tokensUnique": true,
+    "heights": [
+      1030,
+      1220
+    ],
+    "independentReload": true,
+    "postUnaffected": true
+  },
+  {
+    "engine": "webkit",
+    "group": [
+      9,
+      10,
+      8
+    ],
+    "ok": true,
+    "tokensUnique": true,
+    "heights": [
+      1030,
+      1220,
+      640
+    ],
+    "independentReload": true,
+    "postUnaffected": true
+  },
+  {
+    "engine": "webkit",
+    "group": [
+      11,
+      12
+    ],
+    "ok": true,
+    "tokensUnique": true,
+    "heights": [
+      1030,
+      1220
+    ],
+    "independentReload": true,
+    "postUnaffected": true
+  }
+]

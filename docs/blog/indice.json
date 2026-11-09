@@ -1,0 +1,347 @@
+{
+  "schema": 1,
+  "descrizione": "Risorse e riscontri delle cornici del blog; i codici di altre app sono documentazione, non sorgenti di Latino Facile.",
+  "app_di_riferimento": "latino-facile-app",
+  "verifica_latino_utc": "2026-11-07T12:54:31+00:00",
+  "verifica_post_feed_utc": "2026-11-07T12:37:18.606Z",
+  "verifica_post_mobile_finita_utc": "2026-11-07T12:36:48.174Z",
+  "blog_home": "https://blogdelprofessoreandreacentinaro.blogspot.com/",
+  "cornice_latino": {
+    "post": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/08/latino.html",
+    "post_id": "4191565949420778225",
+    "app_url": "https://latino-facile-app-2.easy-peasy.site/",
+    "file": "cornice-dinamica/embed-latino-facile-blog-pubblicata-2026-11-07.html",
+    "sha256": "0b3e5bf335092e16f603531a3432897a5c038f1f0783a3819a21a1ad3d4c3a28",
+    "confronto_feed": "Blocco byte per byte; la precedente copia nel progetto differisce solo per il newline finale."
+  },
+  "documenti": [
+    {
+      "file": "docs/blog/CODICI-CORNICI-BLOG-AGGIORNATI-2026-11-07.docx",
+      "sha256": "5643a49d40827b5ceff0aaf94713f0f88c22b875afdb51cd8095eac7b59e7bf1",
+      "bytes": 207407
+    },
+    {
+      "file": "docs/blog/RAPPORTO-CORNICI-BLOG-2026-11-07.md",
+      "sha256": "48413518e7c1879621e4215d80dc094521bb6024740165c0a466a02ae1e40c16",
+      "bytes": 7502
+    },
+    {
+      "file": "docs/blog/VERIFICA-PUBBLICA-CORNICI-2026-11-07.json",
+      "sha256": "38fb7f50da5a6c2a2ac366fc974c5025eee186afdf0e2ded9d4dc3d2d30c5508",
+      "bytes": 17963
+    },
+    {
+      "file": "docs/blog/VERIFICA-CORNICE-LATINO-PUBBLICA-2026-11-07.json",
+      "sha256": "e41ffc566fd2e18197c41eb9f422c3604e19d66108087b95add35854caf699a0",
+      "bytes": 1147
+    },
+    {
+      "file": "docs/blog/VERIFICA-SIMULATA-CORNICI-2026-11-07.json",
+      "sha256": "b016fd8c5f44c70f98ff60140c69318ddf4ebeb82ffbe7460a1c396f21e2409d",
+      "bytes": 10652
+    },
+    {
+      "file": "docs/blog/VERIFICA-CORNICI-AFFIANCATE-2026-11-07.json",
+      "sha256": "40261daedb5aabea60a8d7256c86a60695bd93aabc5966f1b944b01a2e695b96",
+      "bytes": 1368
+    },
+    {
+      "file": "docs/blog/VERIFICA-PING-LENTO-2026-11-07.json",
+      "sha256": "0abd5d649b9d9450088904e80b1c1d201cb655d57e7999718df0a5d17a5e16f3",
+      "bytes": 270
+    },
+    {
+      "file": "docs/portabilita/RAPPORTO-ANTEPRIMA-MOBILE-2026-11-07.md",
+      "sha256": "78642ffe6ff5363ef4be527df703dc9e47c8dcf74956e1591b6ec2425e5834b7",
+      "bytes": 5189
+    }
+  ],
+  "codici_word": [
+    {
+      "numero": 1,
+      "titolo": "Codice 1 — LATINO FACILE",
+      "app_url": "https://latino-facile-app-2.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-01.html",
+      "sha256": "0b3e5bf335092e16f603531a3432897a5c038f1f0783a3819a21a1ad3d4c3a28",
+      "bytes": 18731
+    },
+    {
+      "numero": 2,
+      "titolo": "Codice 2 — EQUAZIONI BIQUADRATICHE (4° GRADO)",
+      "app_url": "https://equazioni-biquadratiche.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-02.html",
+      "sha256": "c85ba9171fc4b999baf085c631a0e55119dc1b593d70dc2504150340fa2ba987",
+      "bytes": 20445
+    },
+    {
+      "numero": 3,
+      "titolo": "Codice 3 — LINGUE FACILI (INGLESE · FRANCESE · SPAGNOLO)",
+      "app_url": "https://lingue-facili.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-03.html",
+      "sha256": "289fc74019dc3af82d866d3b443baf78891fc4257be9a20211b74d659dc22fe0",
+      "bytes": 21800
+    },
+    {
+      "numero": 4,
+      "titolo": "Codice 4 — OPERAZIONI CON LE FRAZIONI",
+      "app_url": "https://math-input-panel.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-04.html",
+      "sha256": "c683c30fe87acd17ba913fa49983c91022a8c59e65339cadbcc77953605f04c9",
+      "bytes": 20382
+    },
+    {
+      "numero": 5,
+      "titolo": "Codice 5 — MAPPA CONCETTUALE IN 3 PASSI",
+      "app_url": "https://mappa-3passi-preview.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-05.html",
+      "sha256": "8fabf8bedbcf3a88a6b6f1850eb85afdea46aeb8ea2bdf9d76c9198bebc8885c",
+      "bytes": 21849
+    },
+    {
+      "numero": 6,
+      "titolo": "Codice 6 — SHAKESPEARE QUIZ (senza audio)",
+      "app_url": "https://shakespeare-quiz.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-06.html",
+      "sha256": "852b86c7476fb5b5ea5570d7a4790046ad5d86560b0df06f4f2f0ccb5b360add",
+      "bytes": 18754
+    },
+    {
+      "numero": 7,
+      "titolo": "Codice 7 — PAROLE CHIAVE — ROSALÍA DE CASTRO",
+      "app_url": "https://shakespeare-quiz-2.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-07.html",
+      "sha256": "f85dd712ff54cd43145aac415d987720600e3b655e5f08ecd4a766164ec24130",
+      "bytes": 18796
+    },
+    {
+      "numero": 8,
+      "titolo": "Codice 8 — LABORATORIO AUMENTATO 3D",
+      "app_url": "https://laboratorio-visivo-2.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-08.html",
+      "sha256": "38a21cac2fd2870b5254ed42a79d4abe267f08392bf08b40b3a0caebcf67eec5",
+      "bytes": 18798
+    },
+    {
+      "numero": 9,
+      "titolo": "Codice 9 — QUIZ INTERATTIVO BECQUER (con audio)",
+      "app_url": "https://becquer-quiz.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-09.html",
+      "sha256": "a174447f3cf63dc50240a597c2c53c6bfa9a76e74f381378077f872386156d16",
+      "bytes": 18742
+    },
+    {
+      "numero": 10,
+      "titolo": "Codice 10 — SCHEMA INTERATTIVO BECQUER",
+      "app_url": "https://becquer-schema-interattivo.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-10.html",
+      "sha256": "d09734967911b445905a5a186a3857aba6e52858456faa91f5e3915dc781de5d",
+      "bytes": 18792
+    },
+    {
+      "numero": 11,
+      "titolo": "Codice 11 — IMMAGINE INTERATTIVA ROMANTICISMO",
+      "app_url": "https://romanticismo-interattivo.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-11.html",
+      "sha256": "c8ca714d8d8266bb655d0f4799fb47bc79029dd46fd79d5df093d43122426c11",
+      "bytes": 18794
+    },
+    {
+      "numero": 12,
+      "titolo": "Codice 12 — MAPPA CONCETTUALE INTERATTIVA ROMANTICISMO",
+      "app_url": "https://romanticismo-mappa-concettuale.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-12.html",
+      "sha256": "e2efc8f55ad08e1cc4b1893e34fcb72d9bec0da167bf77119826848397f704b2",
+      "bytes": 18848
+    },
+    {
+      "numero": 13,
+      "titolo": "Codice 13 — LINEA DEL TEMPO — MARCO HISTÓRICO DEL ROMANTICISMO",
+      "app_url": "https://espana-xix-match.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-13.html",
+      "sha256": "45a9029b1b21ea87f6c3977011e7e6c1fc929e1994b6ed8d15f823680edaf539",
+      "bytes": 18245
+    },
+    {
+      "numero": 14,
+      "titolo": "Codice 14 — WIDGET METACOGNITIVO PER IL CALCOLO DI ESPRESSIONI",
+      "app_url": "https://espressioni-monomi-polinomi.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-14.html",
+      "sha256": "39b68581c3c0113185aa418efb4e796cf7d69e46c05e3fdcfcd3abec97d6d048",
+      "bytes": 24290
+    },
+    {
+      "numero": 15,
+      "titolo": "Codice 15 — MAPPE CONCETTUALI DI MATEMATICA E FISICA",
+      "app_url": "https://mappe-matematica-fisica.easy-peasy.site/",
+      "file": "docs/blog/codici-docx/codice-15.html",
+      "sha256": "4c2bc3b57907c00a5aee3df0d3f237d26a1456590c0260f319a884abc8abde70",
+      "bytes": 22578
+    }
+  ],
+  "post_aggiornati": [
+    {
+      "post_id": "679576033890164509",
+      "titolo": "MATEMATICA",
+      "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/09/matematica_01504356514.html",
+      "cornici": [
+        {
+          "posizione": 1,
+          "app_url": "https://espressioni-monomi-polinomi.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-679576033890164509-1.html",
+          "sha256": "39b68581c3c0113185aa418efb4e796cf7d69e46c05e3fdcfcd3abec97d6d048",
+          "bytes": 24290
+        }
+      ]
+    },
+    {
+      "post_id": "1922418405459565194",
+      "titolo": "LINGUE STRANIERE",
+      "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/09/lingue-straniere.html",
+      "cornici": [
+        {
+          "posizione": 1,
+          "app_url": "https://lingue-facili.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-1922418405459565194-1.html",
+          "sha256": "289fc74019dc3af82d866d3b443baf78891fc4257be9a20211b74d659dc22fe0",
+          "bytes": 21800
+        }
+      ]
+    },
+    {
+      "post_id": "6399175649064646853",
+      "titolo": "MATEMATICA E FISICA",
+      "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/09/matematica-e-fisica.html",
+      "cornici": [
+        {
+          "posizione": 1,
+          "app_url": "https://mappe-matematica-fisica.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-6399175649064646853-1.html",
+          "sha256": "4c2bc3b57907c00a5aee3df0d3f237d26a1456590c0260f319a884abc8abde70",
+          "bytes": 22578
+        }
+      ]
+    },
+    {
+      "post_id": "2066753291669308721",
+      "titolo": "STRATEGIE DI STUDIO",
+      "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/07/strategie-di-studio.html",
+      "cornici": [
+        {
+          "posizione": 1,
+          "app_url": "https://mappa-3passi-preview.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-2066753291669308721-1.html",
+          "sha256": "8fabf8bedbcf3a88a6b6f1850eb85afdea46aeb8ea2bdf9d76c9198bebc8885c",
+          "bytes": 21849
+        }
+      ]
+    },
+    {
+      "post_id": "8441799158364970443",
+      "titolo": "LETTERATURA INGLESE",
+      "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/05/letteratura-inglese.html",
+      "cornici": [
+        {
+          "posizione": 1,
+          "app_url": "https://shakespeare-quiz.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-8441799158364970443-1.html",
+          "sha256": "f19f038ce152489d245a5d98b54149888c3e448cf01bda46ebdbdb7bac5e7de4",
+          "bytes": 20855
+        }
+      ]
+    },
+    {
+      "post_id": "4249744076071402431",
+      "titolo": "LETTERATURA SPAGNOLA",
+      "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/05/letteratura-spagnola_0257251835.html",
+      "cornici": [
+        {
+          "posizione": 1,
+          "app_url": "https://shakespeare-quiz-2.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-4249744076071402431-1.html",
+          "sha256": "0272be74b2d1991980611e86345708bf2823cf98571bdc9b5eeb4562e3b7fe62",
+          "bytes": 20951
+        },
+        {
+          "posizione": 2,
+          "app_url": "https://laboratorio-visivo-2.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-4249744076071402431-2.html",
+          "sha256": "9dd2280cce6b82a6687e5af86284ea551736843d79e80393f61cbc030079f000",
+          "bytes": 20907
+        }
+      ]
+    },
+    {
+      "post_id": "7323079439067659778",
+      "titolo": "LETTERATURA SPAGNOLA",
+      "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/05/letteratura-spagnola.html",
+      "cornici": [
+        {
+          "posizione": 1,
+          "app_url": "https://becquer-quiz.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-7323079439067659778-1.html",
+          "sha256": "c704701ddb55916aac410e218a2ed9962b1893558865467e8b129afff612d725",
+          "bytes": 20749
+        },
+        {
+          "posizione": 2,
+          "app_url": "https://becquer-schema-interattivo.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-7323079439067659778-2.html",
+          "sha256": "cbf125b1e7796a6e23aa20d8e262be50b53b2dbb53099d95d732245ff8be6146",
+          "bytes": 20801
+        },
+        {
+          "posizione": 3,
+          "app_url": "https://laboratorio-visivo-2.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-7323079439067659778-3.html",
+          "sha256": "4bc7bb3399646e4677dc9c500a2aa4bcf28e71e6263432938ed12e3083cb911b",
+          "bytes": 20813
+        }
+      ]
+    },
+    {
+      "post_id": "4691181389365276674",
+      "titolo": "LETTERATURA SPAGNOLA",
+      "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/04/letteratura-spagnola_6.html",
+      "cornici": [
+        {
+          "posizione": 1,
+          "app_url": "https://romanticismo-interattivo.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-4691181389365276674-1.html",
+          "sha256": "1c7247f6019ab7882dde960d679b8a5188a489c048ecb750a046cf87e866fe0f",
+          "bytes": 20899
+        },
+        {
+          "posizione": 2,
+          "app_url": "https://romanticismo-mappa-concettuale.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-4691181389365276674-2.html",
+          "sha256": "1200cb05e73cccd9fb4f28f9f840e05c1da35a9a05cc57d6d945831376219cbe",
+          "bytes": 20962
+        }
+      ]
+    },
+    {
+      "post_id": "9124895531424382719",
+      "titolo": "LETTERATURA SPAGNOLA",
+      "url": "https://blogdelprofessoreandreacentinaro.blogspot.com/2026/08/letteratura-spagnola.html",
+      "cornici": [
+        {
+          "posizione": 1,
+          "app_url": "https://espana-xix-match.easy-peasy.site/",
+          "file": "docs/blog/cornici-post/blog-9124895531424382719-1.html",
+          "sha256": "a886a9b2da0f810abe6a1d2fcd4d060b1edea754a590e7ee7bd64e20f15793b2",
+          "bytes": 20889
+        }
+      ]
+    }
+  ],
+  "backup_post": {
+    "incluso_nel_repository": false,
+    "motivo": "Consegnato separatamente, per non pubblicare nel repository GitHub i backup dei corpi dei post."
+  },
+  "limiti": [
+    "Le prove mobile utilizzano Chrome desktop in contenitori da 320 px, non un telefono fisico.",
+    "Feed: confronto HTML/CSS/JS interpretati; non dimostra tutte le funzioni interne delle app.",
+    "La cornice LATINO è stata confrontata byte per byte in GET; non è stata modificata durante la standardizzazione degli altri post.",
+    "I risultati non costituiscono certificazione di accessibilità, accuratezza grammaticale o OCR."
+  ]
+}

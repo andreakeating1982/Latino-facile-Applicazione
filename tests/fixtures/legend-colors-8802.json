@@ -1,0 +1,1612 @@
+[
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(255, 253, 246)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "I colori delle frasi",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "svg",
+    "ownText": "",
+    "color": {
+      "color": "rgb(183, 28, 28)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(183, 28, 28)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "path",
+    "ownText": "",
+    "color": {
+      "color": "rgb(183, 28, 28)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(183, 28, 28)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "path",
+    "ownText": "",
+    "color": {
+      "color": "rgb(183, 28, 28)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(183, 28, 28)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "path",
+    "ownText": "",
+    "color": {
+      "color": "rgb(183, 28, 28)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(183, 28, 28)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "path",
+    "ownText": "",
+    "color": {
+      "color": "rgb(183, 28, 28)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(183, 28, 28)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "path",
+    "ownText": "",
+    "color": {
+      "color": "rgb(183, 28, 28)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(183, 28, 28)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(236, 108, 106)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(160, 40, 37)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "NOMINATIVO SINGOLARE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "NOMINATIVO PLURALE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "SOGGETTO",
+    "color": {
+      "color": "rgb(238, 126, 124)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(238, 126, 124)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "chi? che cosa?",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(255, 199, 66)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(179, 125, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "GENITIVO SINGOLARE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "GENITIVO PLURALE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "COMPLEMENTO DI SPECIFICAZIONE",
+    "color": {
+      "color": "rgb(255, 206, 89)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(255, 206, 89)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "di chi? di che cosa?",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(66, 194, 209)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(0, 120, 135)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "DATIVO SINGOLARE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "DATIVO PLURALE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "COMPLEMENTO DI TERMINE",
+    "color": {
+      "color": "rgb(89, 201, 215)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(89, 201, 215)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "a chi? a che cosa?",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(116, 185, 119)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(47, 112, 50)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "ACCUSATIVO SINGOLARE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "ACCUSATIVO PLURALE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "COMPLEMENTO OGGETTO",
+    "color": {
+      "color": "rgb(133, 193, 135)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(133, 193, 135)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "chi? che cosa? (subisce)",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(108, 120, 193)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(40, 51, 120)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "VOCATIVO SINGOLARE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "VOCATIVO PLURALE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "COMPLEMENTO DI VOCAZIONE",
+    "color": {
+      "color": "rgb(126, 137, 200)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(126, 137, 200)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "per chiamare",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(171, 93, 192)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(99, 25, 119)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "ABLATIVO SINGOLARE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "ABLATIVO PLURALE",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "MEZZO · MODO · CAUSA · LUOGO · TEMPO",
+    "color": {
+      "color": "rgb(182, 113, 200)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(182, 113, 200)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "da, con, per, in...",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(239, 108, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "INDICATIVO",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "PREDICATO VERBALE",
+    "color": {
+      "color": "rgb(245, 159, 89)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(245, 159, 89)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "fatti veri",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(173, 20, 87)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "CONGIUNTIVO",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "PREDICATO VERBALE",
+    "color": {
+      "color": "rgb(202, 102, 146)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(202, 102, 146)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "desideri e possibilità",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(121, 85, 72)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "ALTRI MODI VERBALI",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "PREDICATO VERBALE",
+    "color": {
+      "color": "rgb(168, 145, 136)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(168, 145, 136)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "infinito, participio, gerundio, imperativo...",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(0, 87, 217)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "AVVERBI",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "PAROLE DI SERVIZIO",
+    "color": {
+      "color": "rgb(89, 146, 230)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(89, 146, 230)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "NUNC = ora · IBI = lì · SEMPER = sempre",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(189, 189, 189)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "PREPOSIZIONI",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "PAROLE DI SERVIZIO",
+    "color": {
+      "color": "rgb(89, 89, 89)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(89, 89, 89)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "AD = a · EX = da · IN = in",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(74, 74, 74)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "CONGIUNZIONI",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "PAROLE DI SERVIZIO",
+    "color": {
+      "color": "rgb(74, 74, 74)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(74, 74, 74)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "DIV",
+    "ownText": "ET = e · SED = ma · AUT = o",
+    "color": {
+      "color": "rgb(90, 74, 56)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(90, 74, 56)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "P",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "IL PREDICATO VERBALE",
+    "color": {
+      "color": "rgb(198, 40, 40)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(198, 40, 40)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "SOTTOLINEATO",
+    "color": {
+      "color": "rgb(198, 40, 40)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(198, 40, 40)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "= VOCE PASSIVA",
+    "color": {
+      "color": "rgb(198, 40, 40)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(198, 40, 40)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "-",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "IL PREDICATO VERBALE NON",
+    "color": {
+      "color": "rgb(46, 125, 50)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 125, 50)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "SOTTOLINEATO",
+    "color": {
+      "color": "rgb(46, 125, 50)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 125, 50)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "= VOCE ATTIVA",
+    "color": {
+      "color": "rgb(46, 125, 50)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 125, 50)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "P",
+    "ownText": "Le parole non riconosciute dall'IA sono contrassegnate dal colore nero",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderTopColor": "rgb(58, 42, 30)",
+      "borderRightColor": "rgb(58, 42, 30)",
+      "borderBottomColor": "rgb(58, 42, 30)",
+      "borderLeftColor": "rgb(58, 42, 30)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  },
+  {
+    "tag": "SPAN",
+    "ownText": "",
+    "color": {
+      "color": "rgb(46, 32, 24)",
+      "backgroundColor": "rgb(0, 0, 0)",
+      "borderTopColor": "rgb(46, 32, 24)",
+      "borderRightColor": "rgb(46, 32, 24)",
+      "borderBottomColor": "rgb(46, 32, 24)",
+      "borderLeftColor": "rgb(46, 32, 24)",
+      "textDecorationColor": "rgb(46, 32, 24)",
+      "outlineColor": "oklab(0.501644 0.167407 0.0870815 / 0.5)"
+    }
+  }
+]

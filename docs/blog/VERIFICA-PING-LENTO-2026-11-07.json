@@ -1,0 +1,18 @@
+[
+  {
+    "engine": "chromium",
+    "ok": true,
+    "initial": 640,
+    "early": 640,
+    "confirmed": 2300,
+    "throttleMs": 3000
+  },
+  {
+    "engine": "webkit",
+    "ok": true,
+    "initial": 640,
+    "early": 640,
+    "confirmed": 2300,
+    "throttleMs": 3000
+  }
+]
